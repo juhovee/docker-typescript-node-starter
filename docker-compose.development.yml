@@ -2,7 +2,7 @@ version: '3'
 
 services:
   api:
-    image: juhovee/development-api:devel
+    image: juhovee/node-starter-api:devel
     build:
       context: ./api
       dockerfile: Dockerfile.development
