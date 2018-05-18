@@ -1,7 +1,7 @@
 # Setting up Node Starter
 
 ```bash
-git submodule update
+git submodule update api
 cp api-config/* api/
 cd api
 npm install
